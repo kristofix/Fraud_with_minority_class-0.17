@@ -1,1 +1,1 @@
-# Fraud_with_minority_class-0.17-
+# Fraud_with_minority_class_0.17%
