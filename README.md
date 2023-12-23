@@ -1,6 +1,6 @@
 # Fraud_with_minority_class_0.17%
 
-This my approach to solve popular fraud problem from kaggle.com
+This is my approach to solve popular fraud problem from kaggle.com
 
 Main results:
 
