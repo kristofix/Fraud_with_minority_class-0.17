@@ -1,4 +1,6 @@
-# Fraud_with_minority_class_0.17%
+# Credit Card Fraud Detection
+
+The dataset contains transactions made by credit cards in September 2013 by European cardholders. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
 This is my approach to solve popular fraud problem from kaggle.com
 
